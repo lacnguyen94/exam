@@ -1,0 +1,134 @@
+*{
+ margin: 10px;
+ padding: 10px;
+}
+
+.mainpage{
+
+	height: 100%;
+	width: 100%;
+	background-color: #191827;
+}
+h1{
+	font-size: 38px;
+	
+}
+
+.head,#head2{
+	display: inline;
+	color: white;
+	width: 500px;
+}
+
+#head2{
+	text-align: right;
+	margin-right: 5px;
+}
+
+
+
+.maincontent{
+	height: 90%;
+	width: 95%;
+	background-color: white;
+	margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 30px;
+}
+.pic1{
+	width: 97%;
+	height: 35%;
+}
+
+.service, .project,.client{
+	width: 29%;
+	height: 25%;
+	display: inline-block;
+	background-color: #3682bf;
+	vertical-align: top;
+	margin-right: 10px;
+	margin-left: 20px;
+	color: white;
+
+}
+.pic2{
+	height: 30px;
+	width: 30px;
+	display: inline;s
+}
+
+h2,.pic2{
+	display: inline;
+}
+.but{
+	text-align: left;
+	color: white;
+	background-color: #1a4e77;
+	border-radius: 25px;
+	display: inline-block;
+	margin-left: 5px;
+
+}
+
+.theworld, .ourgoal, .testimonial{
+	width: 29%;
+	height: 25%;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+.pic3{
+	width: 98%;
+	height: 65%;
+	
+	margin-right: 0px;
+}
+
+h3{
+	font-size: 20px;
+	display: inline;
+}
+.firstlink{
+	text-decoration: none;
+	color: #3980b9;
+	font-size: 25px;
+}
+.last{
+	background-color: #2b82c745;
+	height: 150px;
+}
+.home{
+	width: 95%;
+	border-style: solid;
+	border-color: 5px black;
+	height: 10px;
+	background-color: #2b82c745;
+	
+	text-align: center;
+}
+.bot{
+	display: inline;
+	color: #3980b9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
